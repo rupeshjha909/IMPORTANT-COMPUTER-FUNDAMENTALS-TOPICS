@@ -1,0 +1,32 @@
+DBMS
+
+Properties of RDBMS
+ACID Properties
+Types of Keys
+Vertical and Horizontal scaling
+Sharding
+Indexing
+Normal Forms
+Normalization and Denormalization
+Joins
+
+OS
+
+Implementation of Virtual methods , Dynamic binding
+Virtual table
+Multithreading
+Difference b/w Multithreading , Multitasking , Multiprocessing , Multiprogramming
+Difference b/w thread and process
+Cache
+Scheduling algorithms
+Semaphores
+Mutex
+Difference b/w semaphores and mutex
+Deadlock
+Critical section
+Demand paging
+Thrashing
+Difference b/w Internal fragmentation and External fragmentation
+Segmentation
+Paging and Page table
+TLB (translation lookaside buffer)
